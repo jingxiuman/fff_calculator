@@ -28,6 +28,8 @@ body {
   font-size: 3rem;
   line-height: 6rem;
   font-family: flagship_slabbold;
+  overflow: scroll;
+  overflow-y: hidden;
 }
 .key_row {
   display: -webkit-box;
